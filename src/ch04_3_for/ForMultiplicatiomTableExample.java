@@ -4,8 +4,8 @@ public class ForMultiplicatiomTableExample {
 
 	public static void main(String[] args) {
 
-		for(int m=2; m<=9; m++) {
-			System.out.print("***"+ m + "´Ü ***\t");
+		for(int s=2; s<=9; s++) {
+			System.out.print("***"+ s + "´Ü*** \t");
 		}
 			System.out.println("");
 			
