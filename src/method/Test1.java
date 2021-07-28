@@ -16,7 +16,7 @@ public class Test1 {
 		if (i > j) {
 			System.out.println(i - j);
 			
-		} else {
+		} else {	
 			System.out.println(j - i);
 			
 		}
